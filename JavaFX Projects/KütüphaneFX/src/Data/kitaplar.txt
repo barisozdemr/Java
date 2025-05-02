@@ -1,0 +1,5 @@
+bbbbbbbbb;bbbbbbbbb;mevcut;-1
+cccccccccccc;cccccccccccc;mevcutDegil;3
+ddddddddd;ddddddddd;mevcut;-1
+eeeeee;eeeeee;mevcut;-1
+ffffffff;ffffffff;mevcut;-1
